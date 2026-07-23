@@ -1,16 +1,16 @@
 <!-- ======================= BANNER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:1572B6,100:777BB4&height=220&section=header&text=José%20Domingues&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Desenvolvedor%20Back-end%20•%20Cloud%20•%20Data%20Science&descAlignY=58&descSize=18&animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001B33,50:0A66C2,100:00C2FF&height=220&section=header&text=José%20Domingues&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Desenvolvedor%20Back-end%20•%20Cloud%20•%20Data%20Science&descAlignY=58&descSize=18&animation=fadeIn" alt="banner"/>
 
 <!-- ======================= TYPING ======================= -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1572B6&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-end+J%C3%BAnior;PHP+%7C+Python+%7C+SQL;Cloud+com+AWS+%26+Google+Cloud;Cursando+Ci%C3%AAncia+de+Dados+na+FIAP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-end+J%C3%BAnior;PHP+%7C+Python+%7C+SQL;Cloud+com+AWS+%26+Google+Cloud;Cursando+Ci%C3%AAncia+de+Dados+na+FIAP)](https://git.io/typing-svg)
 
 <!-- ======================= SOCIALS ======================= -->
 <a href="https://www.linkedin.com/in/jos%C3%A9-domingues1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:contato@josedomingues.digital"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/zezinDomingues"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=zezinDomingues&label=Perfil&color=1572b6&style=for-the-badge" alt="views"/>
+<a href="mailto:contato@josedomingues.digital"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/zezinDomingues"><img src="https://img.shields.io/badge/GitHub-001B33?style=for-the-badge&logo=github&logoColor=00C2FF" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=zezinDomingues&label=Perfil&color=00C2FF&style=for-the-badge" alt="views"/>
 
 </div>
 
@@ -93,14 +93,16 @@ lema:        "Infraestrutura robusta, escalável e segura é o pilar da inovaç�
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zezinDomingues&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezinDomingues&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="langs"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zezinDomingues&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A1929&title_color=00C2FF&icon_color=0A66C2&text_color=ffffff&ring_color=00C2FF" alt="stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezinDomingues&layout=compact&hide_border=true&langs_count=8&bg_color=0A1929&title_color=00C2FF&text_color=ffffff" alt="langs"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=zezinDomingues&theme=react&hide_border=true&background=0D1117" alt="streak"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=zezinDomingues&hide_border=true&background=0A1929&stroke=0A66C2&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=ffffff&dates=8B9CB0&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=zezinDomingues&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&title_color=00C2FF&text_color=ffffff" alt="trophies"/>
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zezinDomingues&hide_border=true&bg_color=0A1929&color=ffffff&line=00C2FF&point=0A66C2&title_color=00C2FF" alt="activity"/>
 
 </div>
 
 <!-- ======================= FOOTER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:777BB4,50:1572B6,100:4285F4&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0A66C2,100:001B33&height=120&section=footer" alt="footer"/>
