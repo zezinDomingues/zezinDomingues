@@ -97,8 +97,6 @@ lema:        "Infraestrutura robusta, escalável e segura é o pilar da inovaç�
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=zezinDomingues&hide_border=true&background=0A1929&stroke=0A66C2&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=ffffff&dates=8B9CB0&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zezinDomingues&hide_border=true&bg_color=0A1929&color=ffffff&line=00C2FF&point=0A66C2&title_color=00C2FF" alt="activity"/>
-
 </div>
 
 <!-- ======================= FOOTER ======================= -->
