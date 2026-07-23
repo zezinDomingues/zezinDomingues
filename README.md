@@ -93,12 +93,9 @@ lema:        "Infraestrutura robusta, escalável e segura é o pilar da inovaç�
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=zezinDomingues&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A1929&title_color=00C2FF&icon_color=0A66C2&text_color=ffffff&ring_color=00C2FF" alt="stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zezinDomingues&layout=compact&hide_border=true&langs_count=8&bg_color=0A1929&title_color=00C2FF&text_color=ffffff" alt="langs"/>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=zezinDomingues&hide_border=true&background=0A1929&stroke=0A66C2&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=ffffff&dates=8B9CB0&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zezinDomingues&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&title_color=00C2FF&text_color=ffffff" alt="trophies"/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zezinDomingues&hide_border=true&bg_color=0A1929&color=ffffff&line=00C2FF&point=0A66C2&title_color=00C2FF" alt="activity"/>
 
