@@ -130,7 +130,7 @@ lema:        "Fazer a IA sair do slide e funcionar em campo, 24h por dia"
 <!-- ======================= ARQUITETURA ======================= -->
 ## 🧭 O que eu opero em produção
 
-> Do pasto ao WhatsApp: o caminho do vídeo no SmartRanch e os agentes que mantêm cada etapa de pé.
+> Da câmera ao WhatsApp: o caminho do vídeo numa aplicação de visão computacional em tempo real, e os agentes de IA que mantêm cada etapa de pé.
 
 ```mermaid
 flowchart LR
@@ -138,7 +138,7 @@ flowchart LR
     B -- "RTMP · VPN Tailscale" --> C["🖥️ Servidor<br/>ingestão de vídeo"]
     C --> D["🧠 Visão computacional<br/>VLMs & LLMs"]
     C -- "WHEP / HLS" --> E["📊 Painel web<br/>tempo real"]
-    D --> F["💬 Alerta no WhatsApp<br/>equipe da hípica"]
+    D --> F["💬 Alerta no WhatsApp<br/>equipe responsável"]
     F -- "classificação humana" --> G["🔁 Retreino<br/>dos modelos"]
     G --> D
     H["🤖 Agentes de IA<br/>monitoram · diagnosticam · corrigem"] -.-> A
