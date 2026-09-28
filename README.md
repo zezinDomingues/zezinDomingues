@@ -126,14 +126,26 @@ lema:        "Fazer a IA sair do slide e funcionar em campo, 24h por dia"
 
 <br/>
 
-<!-- ======================= STATS ======================= -->
-## 📊 GitHub Analytics
+<!-- ======================= ARQUITETURA ======================= -->
+## 🧭 O que eu opero em produção
 
-<div align="center">
+> Do pasto ao WhatsApp: o caminho do vídeo no SmartRanch e os agentes que mantêm cada etapa de pé.
 
-<img width="95%" src="https://streak-stats.demolab.com/?user=zezinDomingues&hide_border=true&background=0A1929&stroke=0A66C2&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=ffffff&dates=8B9CB0&currStreakNum=ffffff&sideNums=ffffff&locale=pt_BR" alt="streak"/>
+```mermaid
+flowchart LR
+    A["📷 Câmeras IP<br/>RTSP / ONVIF"] --> B["🍓 Raspberry Pi na borda<br/>MediaMTX · systemd"]
+    B -- "RTMP · VPN Tailscale" --> C["🖥️ Servidor<br/>ingestão de vídeo"]
+    C --> D["🧠 Visão computacional<br/>VLMs & LLMs"]
+    C -- "WHEP / HLS" --> E["📊 Painel web<br/>tempo real"]
+    D --> F["💬 Alerta no WhatsApp<br/>equipe da hípica"]
+    F -- "classificação humana" --> G["🔁 Retreino<br/>dos modelos"]
+    G --> D
+    H["🤖 Agentes de IA<br/>monitoram · diagnosticam · corrigem"] -.-> A
+    H -.-> B
+    H -.-> C
+```
 
-</div>
+<br/>
 
 <!-- ======================= FOOTER ======================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0A66C2,100:001B33&height=120&section=footer" alt="footer"/>
