@@ -42,7 +42,7 @@ lema:        "Fazer a IA sair do slide e funcionar em campo, 24h por dia"
 | Projeto | O que faz |
 |---|---|
 | [**SmartRanch**](https://smartranch.com.br) 🌐 | Plataforma de monitoramento de equinos por IA — visão computacional, VLMs/LLMs e alertas no WhatsApp. Atuo no pipeline de vídeo, borda e agentes — [ver site](https://smartranch.com.br) |
-| [**Preposto IA**](https://preposto.ai) 🌐 | Central operacional para síndicos: organiza as mensagens do WhatsApp, transforma conversas em demandas e acompanha responsáveis e respostas por condomínio (Next.js, Supabase, OpenAI). Atuei na integração com o WhatsApp (WAHA) e na auditoria de QA do painel — [ver site](https://preposto.ai) |
+| [**Preposto IA**](https://preposto.ai) 🌐 | Central operacional para síndicos: organiza as mensagens do WhatsApp, transforma conversas em demandas e acompanha responsáveis e respostas por condomínio (Next.js, Supabase, OpenAI). — [ver site](https://preposto.ai) |
 | [**ABDC — Associação Brasileira de Data Center**](https://datacenter.org.br) 🌐 | Portal institucional da associação: iniciativas, notícias, treinamentos e eventos, desenvolvido em WordPress — [ver site](https://datacenter.org.br) |
 | [**Saúde Inteligente**](https://saude-inteligente-seven.vercel.app) 🌐 | Aplicação Django multiagente na área da saúde, do banco ao deploy — [ver no ar](https://saude-inteligente-seven.vercel.app) |
 | [**agente-monitor-cameras**](https://github.com/zezinDomingues/agente-monitor-cameras) | Diagnostica um parque de câmeras (a câmera está no ar?) e gera relatório em PDF por cliente |
