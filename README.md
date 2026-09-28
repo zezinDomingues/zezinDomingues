@@ -183,7 +183,7 @@ flowchart LR
     K["🔐 Supabase Auth<br/>e-mail · Google"] --> G
 ```
 
-### 🏢 Preposto IA
+### 🏢 Assistente de WhatsApp para gestão de condomínios
 
 > Do grupo de WhatsApp à demanda resolvida: o agente escuta, classifica e avisa; o síndico pergunta, aprova e só então a mensagem sai.
 
