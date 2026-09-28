@@ -41,6 +41,8 @@ lema:        "Fazer a IA sair do slide e funcionar em campo, 24h por dia"
 
 | Projeto | O que faz |
 |---|---|
+| [**SmartRanch**](https://smartranch.com.br) 🌐 | Plataforma de monitoramento de equinos por IA — visão computacional, VLMs/LLMs e alertas no WhatsApp. Atuo no pipeline de vídeo, borda e agentes — [ver site](https://smartranch.com.br) |
+| [**ABDC — Associação Brasileira de Data Center**](https://datacenter.org.br) 🌐 | Portal institucional da associação: iniciativas, notícias, treinamentos e eventos, desenvolvido em WordPress — [ver site](https://datacenter.org.br) |
 | [**Saúde Inteligente**](https://saude-inteligente-seven.vercel.app) 🌐 | Aplicação Django multiagente na área da saúde, do banco ao deploy — [ver no ar](https://saude-inteligente-seven.vercel.app) |
 | [**agente-monitor-cameras**](https://github.com/zezinDomingues/agente-monitor-cameras) | Diagnostica um parque de câmeras (a câmera está no ar?) e gera relatório em PDF por cliente |
 | [**agente-monitor-gravacoes**](https://github.com/zezinDomingues/agente-monitor-gravacoes) | Confere se as gravações estão de fato sendo guardadas |
