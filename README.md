@@ -183,24 +183,24 @@ flowchart LR
     K["🔐 Supabase Auth<br/>e-mail · Google"] --> G
 ```
 
-### 🏢 Assistente de WhatsApp para gestão de condomínios
+### 💬 Gestão via WhatsApp
 
-> Do grupo de WhatsApp à demanda resolvida: o agente escuta, classifica e avisa; o síndico pergunta, aprova e só então a mensagem sai.
+> Da conversa à demanda resolvida: o agente escuta os grupos, classifica e avisa; o gestor pergunta, aprova e só então a mensagem sai.
 
 ```mermaid
 flowchart LR
-    A["💬 Grupos de WhatsApp<br/>do condomínio"] --> B["📡 Gateway WhatsApp<br/>WAHA"]
+    A["💬 Grupos de WhatsApp"] --> B["📡 Gateway WhatsApp<br/>WAHA"]
     B --> C["⚙️ Webhook"]
     C --> D["🔎 Classificação<br/>categoria · severidade"]
     D --> E[("🗄️ PostgreSQL<br/>mensagens · alertas · demandas")]
-    D -- "severidade alta" --> F["🚨 Alerta no WhatsApp<br/>do síndico"]
+    D -- "severidade alta" --> F["🚨 Alerta no WhatsApp<br/>do gestor"]
     E --> G["📝 Relatório diário<br/>redigido por LLM"]
-    H["👤 Síndico"] -- "DM ou chat do painel" --> I["🤖 Copiloto de IA<br/>LLM com ferramentas"]
+    H["👤 Gestor"] -- "DM ou chat do painel" --> I["🤖 Copiloto de IA<br/>LLM com ferramentas"]
     I --> E
     I -- "envia só após o ok" --> B
     J["🖥️ Painel Next.js<br/>demandas · alertas · relatórios"] --> K["⚡ Core API<br/>FastAPI · Clean Architecture"]
     K --> E
-    J -- "aprovação do síndico" --> L["📤 Outbox"]
+    J -- "aprovação do gestor" --> L["📤 Outbox"]
     L --> B
 ```
 
